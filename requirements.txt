@@ -1,0 +1,6 @@
+flask
+gunicorn
+pyTelegramBotAPI
+requests
+python-dotenv
+Pillow
